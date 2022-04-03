@@ -1,1 +1,2 @@
 
+![tries distribution](triesdistribution.png)
