@@ -1,4 +1,4 @@
-# Wordle Solver
+# Solvle
 ### v03.04.22
 
 ## Introduction
