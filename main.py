@@ -179,7 +179,7 @@ def draw():
 
     window.fill(setup.WHITE)
 
-    text = FONT_L.render("WORDLE SOLVER", 1, setup.RED)
+    text = FONT_L.render("SOLVLE", 1, setup.RED)
 
     tx = (WIN_WIDTH - text.get_width()) / 2
     ty = 20
